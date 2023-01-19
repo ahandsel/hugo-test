@@ -1,4 +1,0 @@
-baseURL = 'https://ahandsel.github.io/hugo-test'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
