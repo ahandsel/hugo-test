@@ -8,14 +8,14 @@ draft: false
 
 Use `Sign-in` (noun, adjective), `Sign in` (verb)
 
-- Do not use `Sign up`; instead, use `Create an account`
+- Do not use `Sign up`; instead, use `Create an account`
 
 ## References
 
 AP vs. Chicago Style Guides:
 
 - Looks like the AP Style guide is more casual, thus better fits with our "conversational voice"
-- Ref: [AP vs. Chicago style: the key differences you should know - Lingoda](https://blog.lingoda.com/en/ap-vs-chicago-style/)
+- Ref: [AP vs. Chicago style: the key differences you should know - Lingoda](https://blog.lingoda.com/en/ap-vs-chicago-style/)
 
 ### Mailchimp
 
@@ -26,12 +26,12 @@ AP vs. Chicago Style Guides:
 ### Google
 
 - Prefers:
-  - `sign-in` (noun) and `sign in` (verb)
-  - `sign-out` (noun or adjective), `sign out` (verb)
-- Does NOT allow: `log in`, `signin`, `sign into`, `sign-on`, `sign on`
+  - `sign-in` (noun) and `sign in` (verb)
+  - `sign-out` (noun or adjective), `sign out` (verb)
+- Does NOT allow: `log in`, `signin`, `sign into`, `sign-on`, `sign on`
 
 ### Microsoft
 
-Use `sign in` or `sign out instead.
+Use `sign in` or `sign out instead.
 
 Don't use log in, login, log into, log on, logon, log onto, log off, log out, logout, or a similar term unless it appears in the UI (and you're writing instructions).
